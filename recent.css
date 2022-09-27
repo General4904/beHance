@@ -1,1 +1,35 @@
+body{
+    font-size: 120%;
+    font-family: Arial, Helvetica, sans-serif;
+    /*text-align: center;*/
+    margin: 2px 5px 3px 2px;
+    background-color: bisque;
+}
 
+h2{
+    text-align: center;
+}
+
+ul li{
+    display: block;
+    margin: 2em 0;
+}
+
+.stat, .copy{
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 6px;
+    padding: 10px 2em;
+    width: 2em;
+}
+
+.stat{
+    margin: 0 1em 0 50em;
+    width: 5em;
+    padding: 10px 3em;
+}
+
+img{
+    float: left;
+    margin-right: 1em;
+}
